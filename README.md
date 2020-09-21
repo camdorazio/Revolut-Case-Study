@@ -1,1 +1,1 @@
-# Revolut-Case-Study
+# A Case Study on Building a Global Financial SuperApp
