@@ -1,4 +1,4 @@
-# TESTING-FOR-CASE-STUDY
+# A case study in building a Global Financial SuperApp
 
 By: Camillo D'Orazio, September 2020
 
